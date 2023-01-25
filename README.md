@@ -1,5 +1,7 @@
 ----
 
+# Hello World
+
 ## Setting up your font
 
 * **New repositories.** Hit the green button above ("Use this template") to create your own repository. Please note that a Github Action job will be executed once you've created the repository which will populate the readme. This may take a few minutes. Please wait for this job to complete before pulling the repo to your local system.*
